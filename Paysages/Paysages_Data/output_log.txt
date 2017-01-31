@@ -1,0 +1,158 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 7600M Series (ID=0x6840)
+    Vendor:   ATI
+    VRAM:     2031 MB
+    Driver:   14.100.0.0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Coco\Documents\Cours\ENJMIN\Paysages\Paysages_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Coco\Documents\Cours\ENJMIN\Paysages\Paysages_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Coco\Documents\Cours\ENJMIN\Paysages\Paysages_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Coco\Documents\Cours\ENJMIN\Paysages\Paysages_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Coco\Documents\Cours\ENJMIN\Paysages\Paysages_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Coco\Documents\Cours\ENJMIN\Paysages\Paysages_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Coco\Documents\Cours\ENJMIN\Paysages\Paysages_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
+Loading C:\Users\Coco\Documents\Cours\ENJMIN\Paysages\Paysages_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Coco\Documents\Cours\ENJMIN\Paysages\Paysages_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\Coco\Documents\Cours\ENJMIN\Paysages\Paysages_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\Coco\Documents\Cours\ENJMIN\Paysages\Paysages_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Coco\Documents\Cours\ENJMIN\Paysages\Paysages_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Coco\Documents\Cours\ENJMIN\Paysages\Paysages_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Coco\Documents\Cours\ENJMIN\Paysages\Paysages_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Coco\Documents\Cours\ENJMIN\Paysages\Paysages_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading C:\Users\Coco\Documents\Cours\ENJMIN\Paysages\Paysages_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+- Completed reload, in  0.031 seconds
+Platform assembly: C:\Users\Coco\Documents\Cours\ENJMIN\Paysages\Paysages_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Coco\Documents\Cours\ENJMIN\Paysages\Paysages_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+WARNING: Shader Unsupported: 'Hidden/TerrainEngine/BillboardTree' - Pass '' has no vertex shader
+WARNING: Shader Unsupported: 'Hidden/Nature/Tree Creator Bark Rendertex' - Pass '' has no vertex shader
+UnloadTime: 2.776359 ms
+Crash!!!
+SymInit: Symbol-SearchPath: '.;C:\Users\Coco\Documents\Cours\ENJMIN\Paysages;C:\Users\Coco\Documents\Cours\ENJMIN\Paysages;C:\windows;C:\windows\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Coco'
+OS-Version: 6.1.7601 (Service Pack 1) 0x300-0x1
+C:\Users\Coco\Documents\Cours\ENJMIN\Paysages\Paysages.exe:Paysages.exe (00040000), size: 19062784 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Coco\Documents\Cours\ENJMIN\Paysages\Paysages.exe', fileVersion: 5.5.0.46319
+C:\windows\SysWOW64\ntdll.dll:ntdll.dll (77C70000), size: 1572864 (result: 0), SymType: '-exported-', PDB: 'C:\windows\SysWOW64\ntdll.dll', fileVersion: 6.1.7601.23572
+C:\windows\syswow64\kernel32.dll:kernel32.dll (77760000), size: 1114112 (result: 0), SymType: '-exported-', PDB: 'C:\windows\syswow64\kernel32.dll', fileVersion: 6.1.7601.23572
+C:\windows\syswow64\KERNELBASE.dll:KERNELBASE.dll (77340000), size: 290816 (result: 0), SymType: '-exported-', PDB: 'C:\windows\syswow64\KERNELBASE.dll', fileVersion: 6.1.7601.23572
+C:\windows\system32\HID.DLL:HID.DLL (746B0000), size: 36864 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\HID.DLL', fileVersion: 6.1.7600.16385
+C:\windows\syswow64\msvcrt.dll:msvcrt.dll (76DC0000), size: 704512 (result: 0), SymType: '-exported-', PDB: 'C:\windows\syswow64\msvcrt.dll', fileVersion: 7.0.7601.17744
+C:\windows\syswow64\USER32.dll:USER32.dll (75E40000), size: 1048576 (result: 0), SymType: '-exported-', PDB: 'C:\windows\syswow64\USER32.dll', fileVersion: 6.1.7601.23594
+C:\windows\syswow64\GDI32.dll:GDI32.dll (75910000), size: 589824 (result: 0), SymType: '-exported-', PDB: 'C:\windows\syswow64\GDI32.dll', fileVersion: 6.1.7601.23591
+C:\windows\syswow64\LPK.dll:LPK.dll (758C0000), size: 40960 (result: 0), SymType: '-exported-', PDB: 'C:\windows\syswow64\LPK.dll', fileVersion: 6.1.7601.23587
+C:\windows\syswow64\USP10.dll:USP10.dll (759A0000), size: 643072 (result: 0), SymType: '-exported-', PDB: 'C:\windows\syswow64\USP10.dll', fileVersion: 1.626.7601.23585
+C:\windows\syswow64\ADVAPI32.dll:ADVAPI32.dll (76010000), size: 659456 (result: 0), SymType: '-exported-', PDB: 'C:\windows\syswow64\ADVAPI32.dll', fileVersion: 6.1.7601.23572
+C:\windows\SysWOW64\sechost.dll:sechost.dll (77420000), size: 102400 (result: 0), SymType: '-exported-', PDB: 'C:\windows\SysWOW64\sechost.dll', fileVersion: 6.1.7601.18869
+C:\windows\syswow64\RPCRT4.dll:RPCRT4.dll (77040000), size: 983040 (result: 0), SymType: '-exported-', PDB: 'C:\windows\syswow64\RPCRT4.dll', fileVersion: 6.1.7601.23642
+C:\windows\syswow64\SspiCli.dll:SspiCli.dll (75660000), size: 393216 (result: 0), SymType: '-exported-', PDB: 'C:\windows\syswow64\SspiCli.dll', fileVersion: 6.1.7601.23642
+C:\windows\syswow64\CRYPTBASE.dll:CRYPTBASE.dll (75650000), size: 49152 (result: 0), SymType: '-exported-', PDB: 'C:\windows\syswow64\CRYPTBASE.dll', fileVersion: 6.1.7601.23642
+C:\windows\system32\VERSION.dll:VERSION.dll (736E0000), size: 36864 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\VERSION.dll', fileVersion: 6.1.7600.16385
+C:\windows\syswow64\ole32.dll:ole32.dll (77460000), size: 1429504 (result: 0), SymType: '-exported-', PDB: 'C:\windows\syswow64\ole32.dll', fileVersion: 6.1.7601.23392
+C:\windows\syswow64\SHLWAPI.dll:SHLWAPI.dll (77130000), size: 356352 (result: 0), SymType: '-exported-', PDB: 'C:\windows\syswow64\SHLWAPI.dll', fileVersion: 6.1.7601.17514
+C:\windows\syswow64\SHELL32.dll:SHELL32.dll (760D0000), size: 12894208 (result: 0), SymType: '-exported-', PDB: 'C:\windows\syswow64\SHELL32.dll', fileVersion: 6.1.7601.23537
+C:\windows\system32\OPENGL32.dll:OPENGL32.dll (571C0000), size: 819200 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\OPENGL32.dll', fileVersion: 6.1.7600.16385
+C:\windows\system32\GLU32.dll:GLU32.dll (58960000), size: 139264 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\GLU32.dll', fileVersion: 6.1.7600.16385
+C:\windows\system32\DDRAW.dll:DDRAW.dll (74DE0000), size: 946176 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\DDRAW.dll', fileVersion: 6.1.7600.16385
+C:\windows\system32\DCIMAN32.dll:DCIMAN32.dll (74D70000), size: 24576 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\DCIMAN32.dll', fileVersion: 6.1.7601.23587
+C:\windows\syswow64\SETUPAPI.dll:SETUPAPI.dll (775C0000), size: 1691648 (result: 0), SymType: '-exported-', PDB: 'C:\windows\syswow64\SETUPAPI.dll', fileVersion: 6.1.7601.17514
+C:\windows\syswow64\CFGMGR32.dll:CFGMGR32.dll (77310000), size: 159744 (result: 0), SymType: '-exported-', PDB: 'C:\windows\syswow64\CFGMGR32.dll', fileVersion: 6.1.7601.17621
+C:\windows\syswow64\OLEAUT32.dll:OLEAUT32.dll (75D80000), size: 593920 (result: 0), SymType: '-exported-', PDB: 'C:\windows\syswow64\OLEAUT32.dll', fileVersion: 6.1.7601.23569
+C:\windows\syswow64\DEVOBJ.dll:DEVOBJ.dll (77440000), size: 73728 (result: 0), SymType: '-exported-', PDB: 'C:\windows\syswow64\DEVOBJ.dll', fileVersion: 6.1.7601.17621
+C:\windows\system32\dwmapi.dll:dwmapi.dll (74D40000), size: 77824 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\dwmapi.dll', fileVersion: 6.1.7601.18917
+C:\windows\system32\WINMM.dll:WINMM.dll (74A50000), size: 204800 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\WINMM.dll', fileVersion: 6.1.7601.17514
+C:\windows\syswow64\WS2_32.dll:WS2_32.dll (758D0000), size: 217088 (result: 0), SymType: '-exported-', PDB: 'C:\windows\syswow64\WS2_32.dll', fileVersion: 6.1.7601.23451
+C:\windows\syswow64\NSI.dll:NSI.dll (76D20000), size: 24576 (result: 0), SymType: '-exported-', PDB: 'C:\windows\syswow64\NSI.dll', fileVersion: 6.1.7600.16385
+C:\windows\syswow64\IMM32.dll:IMM32.dll (76D50000), size: 393216 (result: 0), SymType: '-exported-', PDB: 'C:\windows\syswow64\IMM32.dll', fileVersion: 6.1.7601.17514
+C:\windows\syswow64\MSCTF.dll:MSCTF.dll (75F40000), size: 839680 (result: 0), SymType: '-exported-', PDB: 'C:\windows\syswow64\MSCTF.dll', fileVersion: 6.1.7601.23572
+C:\windows\system32\DNSAPI.dll:DNSAPI.dll (73690000), size: 278528 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\DNSAPI.dll', fileVersion: 6.1.7601.17570
+C:\windows\system32\IPHLPAPI.DLL:IPHLPAPI.DLL (73630000), size: 114688 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\IPHLPAPI.DLL', fileVersion: 6.1.7601.17514
+C:\windows\system32\WINNSI.DLL:WINNSI.DLL (73B20000), size: 28672 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\WINNSI.DLL', fileVersion: 6.1.7600.16385
+C:\windows\system32\WINHTTP.dll:WINHTTP.dll (73790000), size: 360448 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\WINHTTP.dll', fileVersion: 6.1.7601.23451
+C:\windows\system32\webio.dll:webio.dll (73740000), size: 327680 (result: 0), SymType: '-nosymbols-', PDB: 'C:\windows\system32\webio.dll', fileVersion: 6.1.7601.23375
+C:\Users\Coco\Documents\Cours\ENJMIN\Paysages\Paysages_Data\Mono\mono.dll:mono.dll (10000000), size: 2297856 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Coco\Documents\Cours\ENJMIN\Paysages\Paysages_Data\Mono\mono.dll', fileVersion: 1.0.0.1
+C:\windows\syswow64\PSAPI.DLL:PSAPI.DLL (758B0000), size: 20480 (result: 0), SymType: '-exported-', PDB: 'C:\windows\syswow64\PSAPI.DLL', fileVersion: 6.1.7600.16385
+C:\windows\system32\MSWSOCK.dll:MSWSOCK.dll (72290000), size: 245760 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\MSWSOCK.dll', fileVersion: 6.1.7601.23451
+C:\windows\system32\uxtheme.dll:uxtheme.dll (732D0000), size: 524288 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\uxtheme.dll', fileVersion: 6.1.7600.16385
+C:\Program Files (x86)\Bandicam\bdcam.dll:bdcam.dll (579D0000), size: 937984 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\Bandicam\bdcam.dll', fileVersion: 3.3.1.1192
+C:\windows\system32\api-ms-win-core-synch-l1-2-0.DLL:api-ms-win-core-synch-l1-2-0.DLL (6FD60000), size: 12288 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\api-ms-win-core-synch-l1-2-0.DLL', fileVersion: 10.0.10586.9
+C:\Program Files (x86)\ATI Technologies\HydraVision\HydraDMH.dll:HydraDMH.dll (74730000), size: 167936 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\ATI Technologies\HydraVision\HydraDMH.dll', fileVersion: 4.0.66.0
+C:\windows\system32\MSVCR110.dll:MSVCR110.dll (744A0000), size: 876544 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\MSVCR110.dll', fileVersion: 11.0.51106.1
+C:\windows\system32\d3d11.dll:d3d11.dll (676A0000), size: 1527808 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\d3d11.dll', fileVersion: 6.2.9200.16570
+C:\windows\system32\dxgi.dll:dxgi.dll (68A90000), size: 311296 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\dxgi.dll', fileVersion: 6.2.9200.16492
+C:\windows\system32\DXGIDebug.dll:DXGIDebug.dll (690C0000), size: 118784 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\DXGIDebug.dll', fileVersion: 9.30.9600.17336
+C:\windows\syswow64\WINTRUST.dll:WINTRUST.dll (756C0000), size: 192512 (result: 0), SymType: '-exported-', PDB: 'C:\windows\syswow64\WINTRUST.dll', fileVersion: 6.1.7601.23566
+C:\windows\syswow64\CRYPT32.dll:CRYPT32.dll (77190000), size: 1183744 (result: 0), SymType: '-exported-', PDB: 'C:\windows\syswow64\CRYPT32.dll', fileVersion: 6.1.7601.23566
+C:\windows\syswow64\MSASN1.dll:MSASN1.dll (760C0000), size: 49152 (result: 0), SymType: '-exported-', PDB: 'C:\windows\syswow64\MSASN1.dll', fileVersion: 6.1.7601.17514
+C:\windows\system32\aticfx32.dll:aticfx32.dll (74580000), size: 1126400 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\aticfx32.dll', fileVersion: 8.17.10.1280
+C:\windows\system32\atiuxpag.dll:atiuxpag.dll (69060000), size: 139264 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\atiuxpag.dll', fileVersion: 8.14.1.6374
+C:\windows\system32\atidxx32.dll:atidxx32.dll (60D30000), size: 8843264 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\atidxx32.dll', fileVersion: 8.17.10.545
+C:\windows\syswow64\CLBCatQ.DLL:CLBCatQ.DLL (77390000), size: 536576 (result: 0), SymType: '-exported-', PDB: 'C:\windows\syswow64\CLBCatQ.DLL', fileVersion: 2001.12.8530.16385
+C:\windows\system32\wbem\wbemprox.dll:wbemprox.dll (73D00000), size: 40960 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\wbem\wbemprox.dll', fileVersion: 6.1.7600.16385
+C:\windows\system32\wbemcomn.dll:wbemcomn.dll (69E60000), size: 376832 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\wbemcomn.dll', fileVersion: 6.1.7601.17514
+C:\windows\system32\CRYPTSP.dll:CRYPTSP.dll (752F0000), size: 94208 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\CRYPTSP.dll', fileVersion: 6.1.7601.23471
+C:\windows\system32\rsaenh.dll:rsaenh.dll (752B0000), size: 241664 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\rsaenh.dll', fileVersion: 6.1.7600.16385
+C:\windows\system32\RpcRtRemote.dll:RpcRtRemote.dll (736F0000), size: 57344 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\RpcRtRemote.dll', fileVersion: 6.1.7601.17514
+C:\windows\system32\wbem\wbemsvc.dll:wbemsvc.dll (6AA70000), size: 61440 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\wbem\wbemsvc.dll', fileVersion: 6.1.7600.16385
+C:\windows\system32\wbem\fastprox.dll:fastprox.dll (69DC0000), size: 614400 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\wbem\fastprox.dll', fileVersion: 6.1.7601.17514
+C:\windows\system32\NTDSAPI.dll:NTDSAPI.dll (6DCC0000), size: 98304 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\NTDSAPI.dll', fileVersion: 6.1.7600.16385
+C:\windows\System32\MMDevApi.dll:MMDevApi.dll (68E60000), size: 233472 (result: 0), SymType: '-exported-', PDB: 'C:\windows\System32\MMDevApi.dll', fileVersion: 6.1.7601.17514
+C:\windows\System32\PROPSYS.dll:PROPSYS.dll (731D0000), size: 1003520 (result: 0), SymType: '-exported-', PDB: 'C:\windows\System32\PROPSYS.dll', fileVersion: 7.0.7601.17514
+C:\windows\system32\wdmaud.drv:wdmaud.drv (6DEB0000), size: 196608 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\wdmaud.drv', fileVersion: 6.1.7601.17514
+C:\windows\system32\ksuser.dll:ksuser.dll (69630000), size: 16384 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\ksuser.dll', fileVersion: 6.1.7601.19091
+C:\windows\system32\AVRT.dll:AVRT.dll (6A330000), size: 28672 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\AVRT.dll', fileVersion: 6.1.7600.16385
+C:\windows\system32\AUDIOSES.DLL:AUDIOSES.DLL (68EA0000), size: 221184 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\AUDIOSES.DLL', fileVersion: 6.1.7601.23471
+C:\windows\system32\msacm32.drv:msacm32.drv (71F80000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\msacm32.drv', fileVersion: 6.1.7600.16385
+C:\windows\system32\MSACM32.dll:MSACM32.dll (6DE90000), size: 81920 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\MSACM32.dll', fileVersion: 6.1.7600.16385
+C:\windows\system32\midimap.dll:midimap.dll (6DF70000), size: 28672 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\midimap.dll', fileVersion: 6.1.7600.16385
+C:\windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.18837_none_41e855142bd5705d\comctl32.dll:comctl32.dll (73030000), size: 1695744 (result: 0), SymType: '-exported-', PDB: 'C:\windows\WinSxS\x86_microsoft.windows.common-controls_6595b64144ccf1df_6.0.7601.18837_none_41e855142bd5705d\comctl32.dll', fileVersion: 6.10.7601.18837
+C:\windows\system32\d3d9.dll:d3d9.dll (615A0000), size: 1847296 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\d3d9.dll', fileVersion: 6.1.7601.17514
+C:\windows\system32\d3d8thk.dll:d3d8thk.dll (69100000), size: 24576 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\d3d8thk.dll', fileVersion: 6.1.7600.16385
+C:\windows\system32\xinput1_3.dll:xinput1_3.dll (05B10000), size: 90112 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\xinput1_3.dll', fileVersion: 9.18.944.0
+C:\windows\system32\d3dcompiler_47.dll:d3dcompiler_47.dll (518D0000), size: 3735552 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\d3dcompiler_47.dll', fileVersion: 10.0.10240.16384
+C:\windows\syswow64\profapi.dll:profapi.dll (76D40000), size: 45056 (result: 0), SymType: '-nosymbols-', PDB: 'C:\windows\syswow64\profapi.dll', fileVersion: 6.1.7600.16385
+C:\windows\system32\dhcpcsvc.DLL:dhcpcsvc.DLL (72270000), size: 73728 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\dhcpcsvc.DLL', fileVersion: 6.1.7600.16385
+C:\windows\system32\dhcpcsvc6.DLL:dhcpcsvc6.DLL (72260000), size: 53248 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\dhcpcsvc6.DLL', fileVersion: 6.1.7601.17970
+C:\windows\system32\dbghelp.dll:dbghelp.dll (68CE0000), size: 962560 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\dbghelp.dll', fileVersion: 6.1.7601.17514
+
+========== OUTPUTING STACK TRACE ==================
+
+0x007569C4 (Paysages) physx::shdfnd::ErrorHandler::getErrorCallback
+0x00756C6D (Paysages) physx::shdfnd::ErrorHandler::getErrorCallback
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Tentative d’accès à une adresse non valide.' (Address: 00051782)
+0x00051782 (Paysages) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Tentative d’accès à une adresse non valide.' (Address: 00050D28)
+0x00050D28 (Paysages) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Tentative d’accès à une adresse non valide.' (Address: 000532B3)
+0x000532B3 (Paysages) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Tentative d’accès à une adresse non valide.' (Address: 00053384)
+0x00053384 (Paysages) 
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Tentative d’accès à une adresse non valide.' (Address: 000536F6)
+0x000536F6 (Paysages) 
+0x00392547 (Paysages) physx::shdfnd::Foundation::getTempAllocFreeTable
+0x0039364D (Paysages) physx::shdfnd::Foundation::getTempAllocFreeTable
+0x00358F83 (Paysages) physx::shdfnd::Foundation::getTempAllocFreeTable
+0x0035BFF0 (Paysages) physx::shdfnd::Foundation::getTempAllocFreeTable
+0x0035EF8F (Paysages) physx::shdfnd::Foundation::getTempAllocFreeTable
+0x0035F1C5 (Paysages) physx::shdfnd::Foundation::getTempAllocFreeTable
+0x0035D1C6 (Paysages) physx::shdfnd::Foundation::getTempAllocFreeTable
+0x002DCEB2 (Paysages) physx::shdfnd::Foundation::getTempAllocFreeTable
+0x002DD0C1 (Paysages) physx::shdfnd::Foundation::getTempAllocFreeTable
+0x0021C23A (Paysages) physx::shdfnd::Allocator::`default constructor closure'
+0x0021D032 (Paysages) physx::shdfnd::Allocator::`default constructor closure'
+0x0021DC3A (Paysages) physx::shdfnd::Allocator::`default constructor closure'
+0x006F581D (Paysages) physx::shdfnd::ErrorHandler::getMaxCallbackNum
+0x006F8087 (Paysages) physx::shdfnd::ErrorHandler::getMaxCallbackNum
+0x007974F8 (Paysages) physx::shdfnd::Foundation::getErrorMutex
+0x007CFDB8 (Paysages) physx::shdfnd::Foundation::getErrorMutex
+0x7777336A (kernel32) BaseThreadInitThunk
+0x77CA9902 (ntdll) RtlInitializeExceptionChain
+0x77CA98D5 (ntdll) RtlInitializeExceptionChain
+
+========== END OF STACKTRACE ===========
+
+**** Crash! ****

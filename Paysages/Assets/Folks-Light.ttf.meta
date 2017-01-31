@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: d63e5cdb86f635b4aaddef9d5574961a
+timeCreated: 1485785224
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Folks-Light
+  fontNames:
+  - Folks-Light
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

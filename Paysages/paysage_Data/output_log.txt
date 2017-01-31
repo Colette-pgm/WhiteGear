@@ -1,0 +1,122 @@
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Initialize engine version: 5.5.0f3 (38b4efef76f0)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 7600M Series (ID=0x6840)
+    Vendor:   ATI
+    VRAM:     2031 MB
+Crash!!!
+SymInit: Symbol-SearchPath: '.;C:\Users\Coco\Documents\Cours\Paysages;C:\Users\Coco\Documents\Cours\Paysages;C:\windows;C:\windows\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 530, UserName: 'Coco'
+OS-Version: 6.1.7601 (Service Pack 1) 0x300-0x1
+C:\Users\Coco\Documents\Cours\Paysages\paysage.exe:paysage.exe (000000013F4B0000), size: 23150592 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Coco\Documents\Cours\Paysages\paysage.exe', fileVersion: 5.5.0.46319
+C:\windows\SYSTEM32\ntdll.dll:ntdll.dll (0000000077240000), size: 1744896 (result: 0), SymType: '-exported-', PDB: 'C:\windows\SYSTEM32\ntdll.dll', fileVersion: 6.1.7601.23572
+C:\windows\system32\kernel32.dll:kernel32.dll (0000000077020000), size: 1175552 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\kernel32.dll', fileVersion: 6.1.7601.23572
+C:\windows\system32\KERNELBASE.dll:KERNELBASE.dll (000007FEFD3D0000), size: 434176 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\KERNELBASE.dll', fileVersion: 6.1.7601.23572
+C:\windows\system32\HID.DLL:HID.DLL (000007FEFB290000), size: 45056 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\HID.DLL', fileVersion: 6.1.7600.16385
+C:\windows\system32\msvcrt.dll:msvcrt.dll (000007FEFE510000), size: 651264 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\msvcrt.dll', fileVersion: 7.0.7601.17744
+C:\windows\system32\USER32.dll:USER32.dll (0000000077140000), size: 1024000 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\USER32.dll', fileVersion: 6.1.7601.23594
+C:\windows\system32\GDI32.dll:GDI32.dll (000007FEFD450000), size: 421888 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\GDI32.dll', fileVersion: 6.1.7601.23591
+C:\windows\system32\LPK.dll:LPK.dll (000007FEFD440000), size: 57344 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\LPK.dll', fileVersion: 6.1.7601.23587
+C:\windows\system32\USP10.dll:USP10.dll (000007FEFE930000), size: 827392 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\USP10.dll', fileVersion: 1.626.7601.23585
+C:\windows\system32\VERSION.dll:VERSION.dll (000007FEFC120000), size: 49152 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\VERSION.dll', fileVersion: 6.1.7600.16385
+C:\windows\system32\ole32.dll:ole32.dll (000007FEFEB10000), size: 2109440 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\ole32.dll', fileVersion: 6.1.7601.23392
+C:\windows\system32\RPCRT4.dll:RPCRT4.dll (000007FEFEDC0000), size: 1232896 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\RPCRT4.dll', fileVersion: 6.1.7601.23642
+C:\windows\system32\SHLWAPI.dll:SHLWAPI.dll (000007FEFE8B0000), size: 462848 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\SHLWAPI.dll', fileVersion: 6.1.7601.17514
+C:\windows\system32\ADVAPI32.dll:ADVAPI32.dll (000007FEFF060000), size: 897024 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\ADVAPI32.dll', fileVersion: 6.1.7601.23572
+C:\windows\SYSTEM32\sechost.dll:sechost.dll (000007FEFEDA0000), size: 126976 (result: 0), SymType: '-exported-', PDB: 'C:\windows\SYSTEM32\sechost.dll', fileVersion: 6.1.7601.18869
+C:\windows\system32\SHELL32.dll:SHELL32.dll (000007FEFD780000), size: 14196736 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\SHELL32.dll', fileVersion: 6.1.7601.23537
+C:\windows\system32\OPENGL32.dll:OPENGL32.dll (000007FEE44E0000), size: 1167360 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\OPENGL32.dll', fileVersion: 6.1.7600.16385
+C:\windows\system32\GLU32.dll:GLU32.dll (000007FEF47B0000), size: 184320 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\GLU32.dll', fileVersion: 6.1.7600.16385
+C:\windows\system32\DDRAW.dll:DDRAW.dll (000007FEE2EE0000), size: 987136 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\DDRAW.dll', fileVersion: 6.1.7600.16385
+C:\windows\system32\DCIMAN32.dll:DCIMAN32.dll (000007FEF7A70000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\DCIMAN32.dll', fileVersion: 6.1.7601.23587
+C:\windows\system32\SETUPAPI.dll:SETUPAPI.dll (000007FEFD5A0000), size: 1929216 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\SETUPAPI.dll', fileVersion: 6.1.7601.17514
+C:\windows\system32\CFGMGR32.dll:CFGMGR32.dll (000007FEFD160000), size: 221184 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\CFGMGR32.dll', fileVersion: 6.1.7601.17514
+C:\windows\system32\OLEAUT32.dll:OLEAUT32.dll (000007FEFD4C0000), size: 892928 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\OLEAUT32.dll', fileVersion: 6.1.7601.23569
+C:\windows\system32\DEVOBJ.dll:DEVOBJ.dll (000007FEFD1F0000), size: 106496 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\DEVOBJ.dll', fileVersion: 6.1.7600.16385
+C:\windows\system32\dwmapi.dll:dwmapi.dll (000007FEFB270000), size: 98304 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\dwmapi.dll', fileVersion: 6.1.7601.18917
+C:\windows\system32\WINMM.dll:WINMM.dll (000007FEFA200000), size: 241664 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\WINMM.dll', fileVersion: 6.1.7600.16385
+C:\windows\system32\WS2_32.dll:WS2_32.dll (000007FEFF460000), size: 315392 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\WS2_32.dll', fileVersion: 6.1.7601.23451
+C:\windows\system32\NSI.dll:NSI.dll (000007FEFE800000), size: 32768 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\NSI.dll', fileVersion: 6.1.7600.16385
+C:\windows\system32\IMM32.dll:IMM32.dll (000007FEFF140000), size: 188416 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\IMM32.dll', fileVersion: 6.1.7600.16385
+C:\windows\system32\MSCTF.dll:MSCTF.dll (000007FEFEA00000), size: 1085440 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\MSCTF.dll', fileVersion: 6.1.7601.23572
+C:\windows\system32\DNSAPI.dll:DNSAPI.dll (000007FEFC6E0000), size: 372736 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\DNSAPI.dll', fileVersion: 6.1.7601.17570
+C:\windows\system32\IPHLPAPI.DLL:IPHLPAPI.DLL (000007FEFAA20000), size: 159744 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\IPHLPAPI.DLL', fileVersion: 6.1.7601.17514
+C:\windows\system32\WINNSI.DLL:WINNSI.DLL (000007FEFAA10000), size: 45056 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\WINNSI.DLL', fileVersion: 6.1.7600.16385
+C:\windows\system32\WINHTTP.dll:WINHTTP.dll (000007FEF4350000), size: 462848 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\WINHTTP.dll', fileVersion: 6.1.7601.23451
+C:\windows\system32\webio.dll:webio.dll (000007FEF42E0000), size: 413696 (result: 0), SymType: '-nosymbols-', PDB: 'C:\windows\system32\webio.dll', fileVersion: 6.1.7601.23375
+C:\Users\Coco\Documents\Cours\Paysages\paysage_Data\Mono\mono.dll:mono.dll (000007FEE2C00000), size: 2998272 (result: 0), SymType: '-exported-', PDB: 'C:\Users\Coco\Documents\Cours\Paysages\paysage_Data\Mono\mono.dll', fileVersion: 1.0.0.1
+C:\windows\system32\PSAPI.DLL:PSAPI.DLL (0000000077400000), size: 28672 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\PSAPI.DLL', fileVersion: 6.1.7600.16385
+C:\windows\system32\MSWSOCK.dll:MSWSOCK.dll (000007FEFC860000), size: 348160 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\MSWSOCK.dll', fileVersion: 6.1.7601.23451
+C:\windows\system32\CRYPTBASE.dll:CRYPTBASE.dll (000007FEFCF20000), size: 61440 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\CRYPTBASE.dll', fileVersion: 6.1.7601.23642
+C:\windows\system32\uxtheme.dll:uxtheme.dll (000007FEFB650000), size: 352256 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\uxtheme.dll', fileVersion: 6.1.7600.16385
+C:\Program Files (x86)\ATI Technologies\HydraVision\HydraDMH64.dll:HydraDMH64.dll (000007FEF3E50000), size: 176128 (result: 0), SymType: '-exported-', PDB: 'C:\Program Files (x86)\ATI Technologies\HydraVision\HydraDMH64.dll', fileVersion: 4.0.66.0
+C:\windows\system32\MSVCR110.dll:MSVCR110.dll (000007FEF6F00000), size: 868352 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\MSVCR110.dll', fileVersion: 11.0.51106.1
+C:\windows\system32\d3d11.dll:d3d11.dll (000007FEF97B0000), size: 1921024 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\d3d11.dll', fileVersion: 6.2.9200.16570
+C:\windows\system32\dxgi.dll:dxgi.dll (000007FEF9990000), size: 380928 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\dxgi.dll', fileVersion: 6.2.9200.16492
+C:\windows\system32\DXGIDebug.dll:DXGIDebug.dll (000007FEF9780000), size: 155648 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\DXGIDebug.dll', fileVersion: 9.30.9600.17336
+C:\windows\system32\WINTRUST.dll:WINTRUST.dll (000007FEFD1A0000), size: 241664 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\WINTRUST.dll', fileVersion: 6.1.7601.23566
+C:\windows\system32\CRYPT32.dll:CRYPT32.dll (000007FEFD210000), size: 1495040 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\CRYPT32.dll', fileVersion: 6.1.7601.23566
+C:\windows\system32\MSASN1.dll:MSASN1.dll (000007FEFD080000), size: 61440 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\MSASN1.dll', fileVersion: 6.1.7601.17514
+C:\windows\system32\aticfx64.dll:aticfx64.dll (000007FEF9310000), size: 1355776 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\aticfx64.dll', fileVersion: 8.17.10.1280
+C:\windows\system32\atiuxp64.dll:atiuxp64.dll (000007FEF9550000), size: 155648 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\atiuxp64.dll', fileVersion: 8.14.1.6374
+C:\windows\system32\atidxx64.dll:atidxx64.dll (000007FEF8930000), size: 10305536 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\atidxx64.dll', fileVersion: 8.17.10.545
+C:\windows\system32\CLBCatQ.DLL:CLBCatQ.DLL (000007FEFE810000), size: 626688 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\CLBCatQ.DLL', fileVersion: 2001.12.8530.16385
+C:\windows\system32\wbem\wbemprox.dll:wbemprox.dll (000007FEF4790000), size: 61440 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\wbem\wbemprox.dll', fileVersion: 6.1.7600.16385
+C:\windows\system32\wbemcomn.dll:wbemcomn.dll (000007FEF3F10000), size: 548864 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\wbemcomn.dll', fileVersion: 6.1.7601.17514
+C:\windows\system32\CRYPTSP.dll:CRYPTSP.dll (000007FEFC8C0000), size: 98304 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\CRYPTSP.dll', fileVersion: 6.1.7601.23471
+C:\windows\system32\rsaenh.dll:rsaenh.dll (000007FEFC5C0000), size: 290816 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\rsaenh.dll', fileVersion: 6.1.7600.16385
+C:\windows\system32\RpcRtRemote.dll:RpcRtRemote.dll (000007FEFCFD0000), size: 81920 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\RpcRtRemote.dll', fileVersion: 6.1.7601.17514
+C:\windows\system32\wbem\wbemsvc.dll:wbemsvc.dll (000007FEFAC10000), size: 81920 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\wbem\wbemsvc.dll', fileVersion: 6.1.7600.16385
+C:\windows\system32\wbem\fastprox.dll:fastprox.dll (000007FEEB790000), size: 925696 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\wbem\fastprox.dll', fileVersion: 6.1.7600.16385
+C:\windows\system32\NTDSAPI.dll:NTDSAPI.dll (000007FEFA980000), size: 159744 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\NTDSAPI.dll', fileVersion: 6.1.7600.16385
+C:\windows\system32\dbghelp.dll:dbghelp.dll (000007FEF8740000), size: 1200128 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\dbghelp.dll', fileVersion: 6.1.7601.17514
+C:\windows\system32\SspiCli.dll:SspiCli.dll (000007FEFCE90000), size: 151552 (result: 0), SymType: '-exported-', PDB: 'C:\windows\system32\SspiCli.dll', fileVersion: 6.1.7601.23642
+
+========== OUTPUTING STACK TRACE ==================
+
+0x000000013FC68389 (paysage) physx::shdfnd::Allocator::`default constructor closure'
+0x000000013FC6EEC7 (paysage) physx::shdfnd::Allocator::`default constructor closure'
+0x0000000077159BBD (USER32) TranslateMessageEx
+0x000000007715729B (USER32) SetWindowTextW
+0x00000000771567E9 (USER32) IsDialogMessageW
+0x000000007728BC65 (ntdll) KiUserCallbackDispatcher
+0x000000007715908A (USER32) PeekMessageW
+0x0000000077159059 (USER32) PeekMessageW
+0x000007FEFEBDFBD2 (ole32) CoVrfCheckThreadState
+0x000007FEFEBDFD49 (ole32) CoVrfCheckThreadState
+0x000007FEFEBEC26B (ole32) WriteOleStg
+0x000007FEFEBEC371 (ole32) WriteOleStg
+0x000007FEFEB685CC (ole32) CoDisconnectContext
+0x000007FEFEB1A4BF (ole32) CreatePointerMoniker
+0x000007FEFEC7F882 (ole32) CoGetInstanceFromFile
+0x000007FEFEC8272F (ole32) CoGetInstanceFromFile
+0x000007FEFEC8255B (ole32) CoGetInstanceFromFile
+0x000007FEFEB1A30A (ole32) CreatePointerMoniker
+0x000007FEFEB1A79B (ole32) CreatePointerMoniker
+0x000007FEFEB3D248 (ole32) DcomChannelSetHResult
+0x000007FEFEC81EE5 (ole32) CoGetInstanceFromFile
+0x000007FEFEE9FD61 (RPCRT4) RpcAsyncAbortCall
+0x000007FEFEC7F80F (ole32) CoGetInstanceFromFile
+0x000007FEFEB3D0E2 (ole32) DcomChannelSetHResult
+0x000007FEEB7B1BAE (fastprox) CClassPart::GetClassNameW
+0x000000013FC5D24F (paysage) physx::shdfnd::Allocator::`default constructor closure'
+0x000000013FC5D5AD (paysage) physx::shdfnd::Allocator::`default constructor closure'
+0x000000013FCBDF5F (paysage) physx::shdfnd::Allocator::`default constructor closure'
+0x000000013FCBC00B (paysage) physx::shdfnd::Allocator::`default constructor closure'
+0x000000013FCDA26E (paysage) physx::shdfnd::ErrorHandler::getMaxCallbackNum
+0x000000013FCD9A73 (paysage) physx::shdfnd::Allocator::`default constructor closure'
+0x000000013F781A27 (paysage) physx::shdfnd::Foundation::getNamedAllocMap
+0x000000013F782681 (paysage) physx::shdfnd::Foundation::getNamedAllocMap
+0x000000013F6BDF9B (paysage) physx::shdfnd::Foundation::getNamedAllocMap
+0x000000013F6A3CCE (paysage) physx::shdfnd::Foundation::getNamedAllocMap
+0x000000013FC71F4E (paysage) physx::shdfnd::Allocator::`default constructor closure'
+0x000000013FD77DD0 (paysage) physx::shdfnd::ErrorHandler::getMaxCallbackNum
+0x00000000770359CD (kernel32) BaseThreadInitThunk
+0x000000007726A561 (ntdll) RtlUserThreadStart
+
+========== END OF STACKTRACE ===========
+
+**** Crash! ****
+Crash in winutils::ProcessInternalCrash(PEXCEPTION_POINTERS pExInfo)
